@@ -2,32 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/Tugas1/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/Tugas2/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/Tugas3/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/Tugas4/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/UTS/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/Tugas_Weight_Knn/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/Fuzzy_c_mean/</loc>
+     <lastmod>2019-11-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
